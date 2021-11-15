@@ -35,8 +35,8 @@ Picture of the completed circuit mounted in a standard 1" lens tube:
 - Special thanks to Prof. M. Giacomelli. His well-documented project (https://github.com/OpenSiPM/sipm-bias-control) was an inspiration for this design. It also contains some helpful fabrication tips.
 
 ## Bonus images
-<img src="https://github.com/tweber225/simple-sipm/blob/main/media/back.jpg?raw=true" width="480"> <img src="https://github.com/tweber225/simple-sipm/blob/main/media/close%20up.jpg?raw=true" width="480">
-<img src="https://github.com/tweber225/simple-sipm/blob/main/media/really%20close%20up.jpg?raw=true" width="480"> <img src="https://github.com/tweber225/simple-sipm/blob/main/media/single%20photon%20pulses.PNG?raw=true" width="480">
+<img src="https://github.com/tweber225/simple-sipm/blob/main/media/back.jpg?raw=true" width="400"> <img src="https://github.com/tweber225/simple-sipm/blob/main/media/close%20up.jpg?raw=true" width="400">
+<img src="https://github.com/tweber225/simple-sipm/blob/main/media/really%20close%20up.jpg?raw=true" width="400"> <img src="https://github.com/tweber225/simple-sipm/blob/main/media/single%20photon%20pulses.PNG?raw=true" width="400">
 
 Single photon response function for S14420-1550MG + my amplification circuit
 
