@@ -39,6 +39,7 @@ Picture of the completed circuit mounted in a standard 1" lens tube:
 <img src="https://github.com/tweber225/simple-sipm/blob/main/media/really%20close%20up.jpg?raw=true" width="480"> <img src="https://github.com/tweber225/simple-sipm/blob/main/media/single%20photon%20pulses.PNG?raw=true" width="480">
 
 Single photon response function for S14420-1550MG + my amplification circuit
+
 ![circuit diagram](https://github.com/tweber225/simple-sipm/blob/main/media/-1550MG%20response.png?raw=true)
 
 
