@@ -30,6 +30,7 @@ Picture of the completed circuit mounted in a standard 1" lens tube:
 
 ## Comments:
 - Please pay special attention to the intended polarity of the HV input (should be *negative*)
+- Along with HV (for diode bias, 40-50V), you will need to provided +/-5V.
 - I chose 0603 and larger SMD components to facilitate easy hand soldering. Still, you will probably need very fine solder wire, a fine solder tip, plenty of flux, and some binocular magnification. Also don't drink coffee just before.
 - The OPA847 is overkill for this applicaiton. You can probably use a cheaper opamp.
 - Special thanks to Prof. M. Giacomelli. His well-documented project (https://github.com/OpenSiPM/sipm-bias-control) was an inspiration for this design. It also contains some helpful fabrication tips.
