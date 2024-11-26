@@ -2,7 +2,7 @@
 
 Silicon PhotoMultipliers (SiPM), also called Multi-Pixel Photon Counters by Hamamatsu, are a game-changing technology for high-sensitivity photon detection. They are essentially an array of tiny avalanche photodiodes. Geiger mode operation ensures each detected photoelectron produces a virtually identical current pulse. They stand to replace older, vacuum tubed-base photomultipliers in applications such as laser scanning microscopy. You can find plenty of information about the virtues of these devices many places on the internet.
 
-Here, I am posting a quick and simple 1"-round PCB to house a Hamamatsu S14420-series SiPM with onboard transimpedance amplification. I mainly used this with the 1.5 mm diameter, 50 um cell size S14420 variant for confocal microscopy. The SiPM has an intrinsically slow fall time—about 50 ns. This was adequate for my application, but note that compensated (faster) designs [also exist](https://github.com/OpenSiPM/sipm-bias-control).
+Here, I am posting a quick and simple 1"-round PCB to house a Hamamatsu S14420-series SiPM with onboard transimpedance amplification. I mainly used this with the 1.5 mm diameter, 50 um cell size S14420 variant for confocal microscopy. The SiPM has an intrinsically slow fall time—about 50 ns. This was adequate for my application, but note that faster designs also exist: [OpenSiPM](https://github.com/OpenSiPM/sipm-bias-control), [Thorlabs products](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=15959).
 
 Picture of the completed circuit mounted in a standard 1" lens tube:
 
